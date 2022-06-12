@@ -1,0 +1,26 @@
+[
+    {
+        "name":"Bmoto-Parts",
+        "_id":"1",
+        "img":"https://i.ibb.co/g9kKYBc/Web-capture-11-6-2022-125937-bmoto-parts-web-app.jpg",
+        "des":"Bmoto-Parts is a full stack Responsive SPA for Wholesale moto-parts Supplier. Built with Mern-Stack. ",
+        "type":"Full-Stack"
+
+    },
+    {
+        "name":"Sky-gadgets",
+        "_id":"2",
+        "img":"https://i.ibb.co/6y0XKS7/Web-capture-11-6-2022-13328-sky-gadgets-web-app.jpg",
+        "des":"Sky-gadgets is a full stack ecommerce website for selling gadgets and electronics built with Mern-stack",
+        "type":"Full-Stack"
+
+    },
+    {
+        "name":"Fitness-press",
+        "_id":"3",
+        "img":"https://i.ibb.co/hKs70kz/Web-capture-11-6-2022-133219-fitness-press-84846-web-app.jpg",
+        "des":"Fitness-press is a Responsive SPA for fitness training institutes.",
+        "type":"Front-End"
+
+    }
+]
